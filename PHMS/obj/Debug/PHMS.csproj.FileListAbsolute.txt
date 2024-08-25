@@ -1,0 +1,235 @@
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe.config
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.pdb
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csprojAssemblyReference.cache
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.exe
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.pdb
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Dashboard.resources
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Form2.resources
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\bin\Debug\Guna.UI2.dll
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CopyComplete
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.SignIn.resources
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Sign_Up.resources
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.StaffForm.resources
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.ProductForm.resources
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddProduct.resources
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddStaffForm.resources
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateStaff.resources
+C:\Users\AbuNasir\source\repos\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateProduct.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe.config
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.pdb
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\bin\Debug\Guna.UI2.dll
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.AssemblyReference.cache
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddStaffForm.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Dashboard.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.StaffForm.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Sign_Up.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.SignIn.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Form2.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.ProductForm.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddProduct.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateProduct.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateStaff.resources
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CopyComplete
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.exe
+C:\Users\Shoaib Naqvi\Desktop\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.pdb
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.AssemblyReference.cache
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddStaffForm.resources
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Dashboard.resources
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.StaffForm.resources
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Sign_Up.resources
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.SignIn.resources
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Form2.resources
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.ProductForm.resources
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddProduct.resources
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateProduct.resources
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateStaff.resources
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.exe
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.pdb
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe.config
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.pdb
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\bin\Debug\Guna.UI2.dll
+C:\Users\Shoaib Naqvi\Desktop\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CopyComplete
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe.config
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.pdb
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\bin\Debug\Guna.UI2.dll
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csprojAssemblyReference.cache
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddStaffForm.resources
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Dashboard.resources
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.StaffForm.resources
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Sign_Up.resources
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.SignIn.resources
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Form2.resources
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.ProductForm.resources
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddProduct.resources
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateProduct.resources
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateStaff.resources
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CopyComplete
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.exe
+C:\Users\nasir\Downloads\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.pdb
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe.config
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.pdb
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\bin\Debug\Guna.UI2.dll
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csprojAssemblyReference.cache
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddStaffForm.resources
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Dashboard.resources
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.StaffForm.resources
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Sign_Up.resources
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.SignIn.resources
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Form2.resources
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.ProductForm.resources
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddProduct.resources
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateProduct.resources
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateStaff.resources
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CopyComplete
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.exe
+C:\Users\nasir\Downloads\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.pdb
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe.config
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.pdb
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\bin\Debug\Guna.UI2.dll
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.AssemblyReference.cache
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddStaffForm.resources
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Dashboard.resources
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.StaffForm.resources
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Sign_Up.resources
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.SignIn.resources
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Form2.resources
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.ProductForm.resources
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddProduct.resources
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateProduct.resources
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateStaff.resources
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CopyComplete
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.exe
+C:\Users\Shoaib Naqvi\Desktop\pms(26_05_2023)\pms(26_05_2023)\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.pdb
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe.config
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.pdb
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\bin\Debug\Guna.UI2.dll
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csprojAssemblyReference.cache
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddStaffForm.resources
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Dashboard.resources
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.StaffForm.resources
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Sign_Up.resources
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.SignIn.resources
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Form2.resources
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.ProductForm.resources
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddProduct.resources
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateProduct.resources
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateStaff.resources
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CopyComplete
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.exe
+C:\Users\nasir\OneDrive\Documents\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.pdb
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe.config
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\bin\Debug\PHMS.pdb
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\bin\Debug\Guna.UI2.dll
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csprojAssemblyReference.cache
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddStaffForm.resources
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Dashboard.resources
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.StaffForm.resources
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Sign_Up.resources
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.SignIn.resources
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Form2.resources
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddProduct.resources
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateProduct.resources
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateStaff.resources
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CopyComplete
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.exe
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.pdb
+D:\Ammar Azeemi\pms\Pharmacy_Management_System\PHMS\obj\Debug\PHMS.ProductForm.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe.config
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\bin\Debug\PHMS.pdb
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\bin\Debug\Guna.UI2.dll
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csprojAssemblyReference.cache
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddStaffForm.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Dashboard.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.StaffForm.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Sign_Up.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.SignIn.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Form2.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.ProductForm.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddProduct.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateProduct.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateStaff.resources
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CopyComplete
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.exe
+D:\Ammar Azeemi\pms\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.pdb
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe.config
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\bin\Debug\PHMS.pdb
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\bin\Debug\Guna.UI2.dll
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.AssemblyReference.cache
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddStaffForm.resources
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Dashboard.resources
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.StaffForm.resources
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Sign_Up.resources
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.SignIn.resources
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Form2.resources
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.ProductForm.resources
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddProduct.resources
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateProduct.resources
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateStaff.resources
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CopyComplete
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.exe
+C:\Users\Shoaib Naqvi\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.pdb
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe.config
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\bin\Debug\PHMS.exe
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\bin\Debug\PHMS.pdb
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\bin\Debug\Guna.UI2.dll
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.AssemblyReference.cache
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddStaffForm.resources
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Dashboard.resources
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.StaffForm.resources
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Sign_Up.resources
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.SignIn.resources
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Form2.resources
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.ProductForm.resources
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.AddProduct.resources
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.Properties.Resources.resources
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateProduct.resources
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.UpdateStaff.resources
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.GenerateResource.cache
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CoreCompileInputs.cache
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.csproj.CopyComplete
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.exe
+C:\Users\Shoaib Naqvi\OneDrive\Desktop\Final_Pharmacy_Management_System\PHMS\obj\Debug\PHMS.pdb

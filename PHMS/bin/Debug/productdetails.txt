@@ -1,0 +1,464 @@
+50281|Abdominal injuries|First Aid|7000|11
+14629|Aciclovir (Zovirax)|Medicines|300|100
+43439|Acrivastine|Medicines|700|20
+12191|Adalimumab|Medicines|400|50
+65326|Alanine|Nutritional Supplements|700|3000
+20999|Alendronic acid|Medicines|450|60
+54885|Allergic reactions|First Aid|6000|4
+19441|Allopurinol|Medicines|500|70
+44094|Alogliptin|Medicines|550|80
+69966|Alpha-lipoic acid|Nutritional Supplements|500|400
+57192|Altitude sickness|First Aid|3000|20
+67156|Aluminum|Nutritional Supplements|450|1200
+20429|Amitriptyline for depression|Medicines|600|90
+14228|Amitriptyline for pain and migraine|Medicines|650|100
+12424|Amlodipine|Medicines|700|20
+49627|Amoxicillin|Medicines|750|50
+57625|Amputation|First Aid|12000|19
+50739|Anaphylaxis|First Aid|8000|9
+37513|Anastrozole|Medicines|800|60
+58164|Animal bites|First Aid|11000|19
+62736|Anthocyanins|Nutritional Supplements|900|3000
+68128|Antimony|Nutritional Supplements|850|700
+26901|Apixaban|Medicines|850|70
+60671|Arginine|Nutritional Supplements|750|300
+11002|Aripiprazole|Medicines|900|80
+66193|Arsenic|Nutritional Supplements|650|300
+66763|Asparagine|Nutritional Supplements|800|400
+61343|Aspartic acid|Nutritional Supplements|850|6000
+35473|Aspirin for pain relief|Medicines|300|90
+26007|Aspirin – low-dose, see Low-dose aspirin|Medicines|350|100
+53252|Asthma attacks|First Aid|3000|6
+39433|Atenolol|Medicines|400|20
+40237|Atorvastatin|Medicines|450|50
+56671|Automated External Defibrillator (AED)|First Aid|6000|15
+15883|Azathioprine|Medicines|500|60
+28946|Azithromycin|Medicines|550|70
+36534|Baclofen|Medicines|600|80
+69100|Barium|Nutritional Supplements|400|1000
+40717|Beclometasone inhalers|Medicines|650|90
+32095|Beclometasone nasal spray|Medicines|700|100
+34905|Beclometasone skin creams|Medicines|750|20
+10182|Beclometasone tablets|Medicines|800|50
+33303|Bendroflumethiazide|Medicines|850|60
+47590|Benzoyl peroxide|Medicines|900|70
+38670|Benzydamine|Medicines|300|80
+66970|Beryllium|Nutritional Supplements|900|1000
+37881|Betahistine|Medicines|350|90
+62796|Betaine|Nutritional Supplements|400|6000
+29459|Betamethasone for eyes, ears and nose|Medicines|400|100
+36272|Betamethasone for skin|Medicines|450|20
+49761|Betamethasone tablets|Medicines|500|50
+35526|Bimatoprost|Medicines|550|60
+46749|Bisacodyl|Medicines|600|70
+61486|Bismuth|Nutritional Supplements|300|1200
+44163|Bisoprolol|Medicines|650|80
+51058|Blisters|First Aid|2000|10
+61488|Boron|Nutritional Supplements|600|1200
+30426|Brinzolamide|Medicines|700|90
+58244|Broken tooth|First Aid|14000|2
+66191|Bromine|Nutritional Supplements|900|6000
+58000|Bruises|First Aid|15000|9
+44784|Budesonide inhalers|Medicines|750|100
+24386|Budesonide nasal spray|Medicines|800|20
+39129|Budesonide rectal foam and enemas|Medicines|850|50
+25788|Budesonide tablets, capsules and granules|Medicines|900|60
+23476|Bumetanide|Medicines|300|70
+25161|Buprenorphine for pain|Medicines|350|80
+56002|Burns|First Aid|3000|20
+19134|Buscopan (hyoscine butylbromide)|Medicines|400|90
+62905|Cadmium|Nutritional Supplements|600|3000
+24199|Calcipotriol|Medicines|450|100
+69931|Calcium|Nutritional Supplements|300|1400
+13068|Candesartan|Medicines|500|20
+49444|Carbamazepine|Medicines|550|50
+44624|Carbimazole|Medicines|600|60
+27724|Carbocisteine|Medicines|650|70
+65711|Carbohydrates|Nutritional Supplements|550|1200
+54674|Cardiopulmonary resuscitation (CPR)|First Aid|2000|17
+27306|Carmellose sodium|Medicines|700|80
+65429|Carnitine|Nutritional Supplements|400|3000
+44997|Carvedilol|Medicines|750|90
+46478|Cefalexin|Medicines|800|100
+31896|Cetirizine|Medicines|850|20
+45268|Champix (varenicline)|Medicines|900|50
+52218|Chemical burns|First Aid|6000|10
+58318|Chemical exposure|First Aid|8000|8
+54783|Chest injuries|First Aid|7000|1
+50726|Chest injuries|First Aid|14000|10
+48264|Chloramphenicol|Medicines|300|60
+19821|Chlorhexidine|Medicines|350|70
+17267|Chlorphenamine (Piriton)|Medicines|400|80
+52006|Choking|First Aid|8000|5
+62714|Choline|Nutritional Supplements|300|400
+60164|Chromium|Nutritional Supplements|800|1400
+69273|Chromium|Nutritional Supplements|450|3000
+32345|Cinnarizine|Medicines|450|90
+36572|Ciprofloxacin|Medicines|500|100
+20321|Citalopram|Medicines|550|20
+43005|Clarithromycin|Medicines|600|50
+35564|Clobetasol|Medicines|650|60
+19338|Clobetasone|Medicines|700|70
+31947|Clonazepam|Medicines|750|80
+13043|Clonidine|Medicines|800|90
+13774|Clopidogrel|Medicines|850|100
+22460|Clotrimazole cream, spray and solution|Medicines|900|20
+19675|Clotrimazole for thrush (Canesten)|Medicines|300|50
+35341|Co-amoxiclav|Medicines|350|60
+34340|Co-beneldopa|Medicines|400|70
+33329|Co-careldopa|Medicines|450|80
+48586|Co-codamol for adults|Medicines|500|90
+11272|Co-codamol for children|Medicines|550|100
+39396|Co-codaprin (aspirin and codeine)|Medicines|600|20
+30679|Co-dydramol|Medicines|650|50
+15290|Coal tar|Medicines|700|60
+66459|Cobalt|Nutritional Supplements|550|1400
+42792|Codeine|Medicines|750|70
+67777|Coenzyme Q10|Nutritional Supplements|450|300
+42663|Colchicine|Medicines|800|80
+53704|Cold sores|First Aid|3000|13
+13568|Colecalciferol|Medicines|850|90
+57399|Concussions|First Aid|14000|5
+38867|Contraceptive injections (medroxyprogesterone)|Medicines|900|100
+61218|Copper|Nutritional Supplements|650|1000
+62883|Curcumin|Nutritional Supplements|800|1100
+50824|Cuts and lacerations|First Aid|7000|4
+11579|Cyanocobalamin|Medicines|300|20
+37086|Cyclizine|Medicines|350|50
+63152|Cysteine|Nutritional Supplements|900|500
+38622|Dabigatran|Medicines|400|60
+10474|Dapagliflozin|Medicines|450|70
+57060|Dehydration|First Aid|10000|19
+59641|Dental emergencies|First Aid|11000|13
+51362|Dental emergencies|First Aid|8000|9
+27558|Dexamethasone eye drops|Medicines|500|80
+36492|Dexamethasone tablets and liquid|Medicines|550|90
+30741|Diazepam|Medicines|600|100
+10947|Diclofenac|Medicines|650|20
+40245|Digoxin|Medicines|700|50
+49543|Dihydrocodeine|Medicines|750|60
+42712|Diltiazem|Medicines|800|70
+25153|Diphenhydramine|Medicines|850|80
+29040|Dipyridamole|Medicines|900|90
+53406|Dislocations|First Aid|14000|7
+45172|Docusate|Medicines|300|100
+14584|Domperidone|Medicines|350|20
+11275|Donepezil|Medicines|400|50
+19233|Dosulepin|Medicines|450|60
+26850|Doxazosin|Medicines|500|70
+21974|Doxycycline|Medicines|550|80
+58333|Drowning|First Aid|2000|7
+44076|Duloxetine|Medicines|600|90
+42815|Edoxaban|Medicines|650|100
+50668|Electric shock|First Aid|15000|1
+53029|Electric shock|First Aid|10000|8
+52588|Electrical burns|First Aid|7000|15
+14533|Empagliflozin|Medicines|700|20
+37164|Enalapril|Medicines|750|50
+22233|Eplerenone|Medicines|800|60
+24668|Erythromycin|Medicines|850|70
+20481|Escitalopram|Medicines|900|80
+48473|Esomeprazole|Medicines|300|90
+52158|Eye injuries|First Aid|10000|3
+50450|Eye trauma|First Aid|10000|9
+30754|Ezetimibe|Medicines|350|100
+57678|Fainting|First Aid|12000|17
+61598|Fat|Nutritional Supplements|600|1100
+15349|Felodipine|Medicines|400|20
+16086|Fentanyl|Medicines|450|50
+36919|Ferrous fumarate|Medicines|500|60
+37829|Ferrous sulfate|Medicines|550|70
+38157|Fexofenadine|Medicines|600|80
+67837|Fiber|Nutritional Supplements|450|700
+12778|Finasteride|Medicines|650|90
+68478|Flavonoids|Nutritional Supplements|850|1400
+49099|Flucloxacillin|Medicines|700|100
+14803|Fluconazole|Medicines|750|20
+68300|Fluoride|Nutritional Supplements|850|400
+47705|Fluoxetine (Prozac)|Medicines|800|50
+30392|Fluticasone inhalers|Medicines|850|60
+42256|Fluticasone nasal spray and drops|Medicines|900|70
+17425|Fluticasone skin creams|Medicines|300|80
+47348|Folic acid|Medicines|350|90
+51246|Foreign object removal|First Aid|7000|11
+52563|Foreign object removal|First Aid|3000|18
+50779|Fractures and broken bones|First Aid|10000|8
+59370|Frostbite|First Aid|15000|10
+56270|Frostbite|First Aid|3000|3
+50007|Frostnip|First Aid|11000|18
+50669|Frostnip|First Aid|12000|11
+56890|Frostnip|First Aid|14000|8
+33816|Furosemide|Medicines|400|100
+29834|Fusidic acid|Medicines|450|20
+12951|Fybogel (ispaghula husk)|Medicines|500|50
+42265|Gabapentin|Medicines|550|60
+12609|Gaviscon (alginic acid)|Medicines|600|70
+27596|Gliclazide|Medicines|650|80
+38888|Glimepiride|Medicines|700|90
+66055|Glucosamine|Nutritional Supplements|450|500
+65264|Glutamic acid|Nutritional Supplements|300|700
+69136|Glutamine|Nutritional Supplements|350|1000
+46474|Glyceryl trinitrate (GTN)|Medicines|750|100
+61832|Glycine|Nutritional Supplements|400|1200
+24002|Haloperidol|Medicines|800|20
+55401|Head injuries|First Aid|11000|10
+58892|Headaches|First Aid|10000|15
+59467|Headaches|First Aid|12000|16
+57902|Heart attack|First Aid|2000|9
+59677|Heat cramps|First Aid|11000|10
+58943|Heat cramps|First Aid|15000|1
+55335|Heat exhaustion|First Aid|11000|16
+53672|Heat rash|First Aid|7000|2
+56064|Heatstroke|First Aid|12000|19
+17334|Heparinoid|Medicines|850|50
+55396|High-altitude cerebral edema (HACE)|First Aid|15000|1
+59390|High-altitude cerebral edema (HACE)|First Aid|6000|1
+50270|High-altitude pulmonary edema (HAPE)|First Aid|14000|17
+50684|High-altitude pulmonary edema (HAPE)|First Aid|2000|4
+67380|Histidine|Nutritional Supplements|450|1100
+44605|Hydrocortisone|Medicines|900|60
+40320|Hydrocortisone buccal tablets|Medicines|300|70
+20324|Hydrocortisone for piles and itchy bottom|Medicines|350|80
+12007|Hydrocortisone for skin|Medicines|400|90
+49196|Hydrocortisone injections|Medicines|450|100
+40168|Hydrocortisone rectal foam|Medicines|500|20
+15181|Hydrocortisone tablets|Medicines|550|50
+33204|Hydroxocobalamin|Medicines|600|60
+33249|Hydroxychloroquine|Medicines|650|70
+22917|Hyoscine hydrobromide (Kwells and Joy-Rides)|Medicines|700|80
+53689|Hyperglycemia (high blood sugar)|First Aid|10000|2
+55506|Hyperglycemia (high blood sugar)|First Aid|2000|6
+54674|Hyperthermia|First Aid|14000|11
+50353|Hyperventilation|First Aid|12000|3
+51482|Hyperventilation|First Aid|8000|12
+53348|Hypoglycemia (low blood sugar)|First Aid|7000|17
+58438|Hypoglycemia (low blood sugar)|First Aid|15000|5
+58780|Hypothermia|First Aid|14000|6
+10181|Ibuprofen and codeine|Medicines|750|90
+24018|Ibuprofen for adults (Nurofen)|Medicines|800|100
+23809|Ibuprofen for children|Medicines|850|20
+59827|Impaled objects|First Aid|11000|19
+11659|Indapamide|Medicines|900|50
+50406|Ingested objects|First Aid|15000|14
+52001|Inhalation injuries|First Aid|14000|15
+55164|Inhalation injuries|First Aid|3000|4
+62492|Inositol|Nutritional Supplements|500|700
+54243|Insect bites and stings|First Aid|2000|1
+60800|Iodine|Nutritional Supplements|900|300
+64588|Iodine|Nutritional Supplements|400|1400
+37800|Irbesartan|Medicines|300|60
+65851|Iron|Nutritional Supplements|350|3000
+69968|Isoflavones|Nutritional Supplements|300|300
+64000|Isoleucine|Nutritional Supplements|500|1400
+39749|Isosorbide mononitrate and isosorbide dinitrate|Medicines|350|70
+11379|Isotretinoin capsules (Roaccutane)|Medicines|400|80
+18809|Isotretinoin gel (Isotrex)|Medicines|450|90
+54166|Jellyfish stings|First Aid|8000|16
+13865|Ketoconazole|Medicines|500|100
+18735|Labetalol|Medicines|550|20
+26389|Lactulose|Medicines|600|50
+21876|Lamotrigine|Medicines|650|60
+11513|Lansoprazole|Medicines|700|70
+36360|Latanoprost|Medicines|750|80
+69368|Lead|Nutritional Supplements|700|400
+39246|Lercanidipine|Medicines|800|90
+43579|Letrozole|Medicines|850|100
+64477|Leucine|Nutritional Supplements|550|3000
+44482|Levetiracetam|Medicines|900|20
+18481|Levothyroxine|Medicines|300|50
+33561|Lidocaine for mouth and throat|Medicines|350|60
+14950|Lidocaine for piles and itchy bottom|Medicines|400|70
+21644|Lidocaine skin cream|Medicines|450|80
+46555|Linagliptin|Medicines|500|90
+39574|Lisinopril|Medicines|550|100
+15140|Lithium|Medicines|600|20
+66712|Lithium|Nutritional Supplements|500|1100
+21669|Loperamide|Medicines|650|50
+48921|Loratadine (Clarityn)|Medicines|700|60
+28661|Lorazepam|Medicines|750|70
+16522|Losartan|Medicines|800|80
+47331|Low-dose aspirin|Medicines|850|90
+68279|Lutein|Nutritional Supplements|600|500
+64874|Lycopene|Nutritional Supplements|550|6000
+20143|Lymecycline|Medicines|900|100
+61365|Lysine|Nutritional Supplements|600|300
+49971|Macrogol|Medicines|300|20
+69697|Magnesium|Nutritional Supplements|400|300
+69900|Manganese|Nutritional Supplements|700|1200
+66795|Manganese|Nutritional Supplements|500|300
+14910|Mebendazole|Medicines|350|50
+11189|Mebeverine|Medicines|400|60
+47769|Medroxyprogesterone tablets|Medicines|450|70
+39529|Melatonin|Medicines|500|80
+11977|Memantine|Medicines|550|90
+64199|Mercury|Nutritional Supplements|750|6000
+21875|Mesalazine|Medicines|600|100
+30705|Metformin|Medicines|650|20
+14935|Methadone|Medicines|700|50
+62403|Methionine|Nutritional Supplements|650|400
+45494|Methotrexate|Medicines|750|60
+24048|Methylphenidate for adults|Medicines|800|70
+27110|Methylphenidate for children|Medicines|850|80
+28062|Metoclopramide|Medicines|900|90
+28231|Metoprolol|Medicines|300|100
+26383|Metronidazole|Medicines|350|20
+45030|Mirabegron|Medicines|400|50
+18628|Mirtazapine|Medicines|450|60
+32640|Molnupiravir (Lagevrio)|Medicines|500|70
+68476|Molybdenum|Nutritional Supplements|850|3000
+68202|Molybdenum|Nutritional Supplements|550|400
+20256|Mometasone for skin|Medicines|550|80
+41687|Mometasone inhalers|Medicines|600|90
+16727|Mometasone nasal spray|Medicines|650|100
+44103|Montelukast|Medicines|700|20
+14583|Morphine|Medicines|750|50
+50307|Muscle cramps|First Aid|2000|12
+48162|Naproxen|Medicines|800|60
+19869|Nefopam|Medicines|850|70
+63518|Nickel|Nutritional Supplements|750|3000
+68306|Nickel|Nutritional Supplements|600|6000
+17118|Nicorandil|Medicines|900|80
+11213|Nifedipine|Medicines|300|90
+35687|Nitrofurantoin|Medicines|350|100
+40997|Nortriptyline|Medicines|400|20
+58054|Nosebleeds|First Aid|12000|15
+48435|Nystatin|Medicines|450|50
+31444|Olanzapine|Medicines|500|60
+11220|Olmesartan|Medicines|550|70
+67531|Omega-3 fatty acids|Nutritional Supplements|350|6000
+67173|Omega-6 fatty acids|Nutritional Supplements|400|500
+31975|Omeprazole|Medicines|600|80
+33635|Oxybutynin|Medicines|650|90
+39103|Oxycodone|Medicines|700|100
+62967|PABA (Para-aminobenzoic acid)|Nutritional Supplements|550|1000
+49217|Pantoprazole|Medicines|750|20
+33077|Paracetamol for adults|Medicines|800|50
+21336|Paracetamol for children (Calpol)|Medicines|850|60
+42941|Paroxetine|Medicines|900|70
+22187|Paxlovid|Medicines|300|80
+18133|Peppermint oil|Medicines|350|90
+20185|Pepto-Bismol (bismuth subsalicylate)|Medicines|400|100
+49825|Perindopril|Medicines|450|20
+19283|Phenoxymethylpenicillin|Medicines|500|50
+65400|Phenylalanine|Nutritional Supplements|700|6000
+44786|Phenytoin|Medicines|550|60
+69432|Phosphorus|Nutritional Supplements|450|400
+60392|Phytosterols|Nutritional Supplements|350|400
+41915|Pioglitazone|Medicines|600|70
+58477|Poison ivy, oak, or sumac|First Aid|6000|5
+52244|Poisoning|First Aid|7000|4
+54062|Poisoning|First Aid|11000|7
+60786|Potassium|Nutritional Supplements|500|6000
+27663|Pravastatin|Medicines|650|80
+39800|Pre-Exposure Prophylaxis (PrEP)|Medicines|700|90
+20540|Prednisolone tablets and liquid|Medicines|750|100
+36963|Pregabalin|Medicines|800|20
+49567|Prochlorperazine|Medicines|850|50
+66312|Proline|Nutritional Supplements|750|500
+35887|Promethazine (Phenergan)|Medicines|900|60
+20547|Propranolol|Medicines|300|70
+66146|Protein|Nutritional Supplements|500|1000
+58669|Puncture wounds|First Aid|15000|4
+57135|Puncture wounds|First Aid|7000|5
+60038|Quercetin|Nutritional Supplements|700|1000
+33431|Quetiapine|Medicines|350|80
+29694|Rabeprazole|Medicines|400|90
+19733|Ramipril|Medicines|450|100
+40215|Ranitidine|Medicines|500|20
+22185|Remdesivir (Veklury)|Medicines|550|50
+69603|Resveratrol|Nutritional Supplements|750|1200
+24050|Risedronate|Medicines|600|60
+25321|Risperidone|Medicines|650|70
+33410|Rivaroxaban|Medicines|700|80
+34631|Ropinirole|Medicines|750|90
+28628|Rosuvastatin|Medicines|800|100
+64657|Rubidium|Nutritional Supplements|300|500
+45947|Salbutamol inhaler|Medicines|850|20
+47295|Saxagliptin|Medicines|900|50
+51662|Seizures|First Aid|15000|9
+68754|Selenium|Nutritional Supplements|750|1100
+68121|Selenium|Nutritional Supplements|350|1100
+31298|Senna|Medicines|300|60
+65242|Serine|Nutritional Supplements|800|700
+18295|Sertraline|Medicines|350|70
+56031|Shock|First Aid|2000|3
+21832|Sildenafil (Viagra)|Medicines|400|80
+63178|Silica|Nutritional Supplements|650|1100
+60866|Silicon|Nutritional Supplements|650|500
+46374|Simeticone|Medicines|450|90
+26764|Simvastatin|Medicines|500|100
+38712|Sitagliptin|Medicines|550|20
+56398|Snake bites|First Aid|6000|8
+62910|Sodium|Nutritional Supplements|550|500
+40838|Sodium cromoglicate capsules|Medicines|600|50
+23170|Sodium cromoglicate eye drops|Medicines|650|60
+39453|Sodium valproate|Medicines|700|70
+55990|Soft tissue injuries|First Aid|6000|18
+58018|Soft tissue injuries|First Aid|14000|14
+45303|Solifenacin|Medicines|750|80
+12163|Sotalol|Medicines|800|90
+29135|Sotrovimab (Xevudy)|Medicines|850|100
+56315|Spider bites|First Aid|2000|1
+57069|Spider bites|First Aid|10000|3
+56013|Spinal injuries|First Aid|8000|15
+37744|Spironolactone|Medicines|900|20
+55425|Splinters|First Aid|8000|11
+55501|Splinters|First Aid|10000|15
+54297|Sprained ankle|First Aid|6000|13
+53362|Sprained wrist|First Aid|8000|16
+53445|Sprains and strains|First Aid|12000|1
+101285|Stroke|First Aid|2000|3
+67499|Strontium|Nutritional Supplements|350|700
+33585|Sulfasalazine|Medicines|300|50
+62633|Sulfur|Nutritional Supplements|700|700
+43387|Sumatriptan|Medicines|350|60
+57473|Sunburns|First Aid|3000|11
+58051|Sunburns|First Aid|12000|17
+48035|Tadalafil|Medicines|400|70
+26714|Tamsulosin|Medicines|450|80
+39080|Temazepam|Medicines|500|90
+24186|Terbinafine|Medicines|550|100
+68361|Thallium|Nutritional Supplements|800|500
+13055|Thiamine (vitamin B1)|Medicines|600|20
+62207|Threonine|Nutritional Supplements|850|1000
+11402|Ticagrelor|Medicines|650|50
+55858|Tick removal|First Aid|3000|14
+50551|Tick removal|First Aid|6000|8
+42855|Timolol eye drops|Medicines|700|60
+29044|Timolol tablets|Medicines|750|70
+67327|Tin|Nutritional Supplements|800|300
+19139|Tolterodine|Medicines|800|80
+55461|Toothaches|First Aid|7000|20
+56671|Toothaches|First Aid|11000|8
+32693|Topiramate|Medicines|850|90
+50613|Torn ligaments|First Aid|6000|7
+58070|Torn ligaments|First Aid|12000|11
+27931|Tramadol|Medicines|900|100
+46958|Tranexamic acid|Medicines|300|20
+33078|Trastuzumab (Herceptin)|Medicines|350|50
+38476|Trazodone|Medicines|400|60
+47000|Trimethoprim|Medicines|450|70
+63013|Tryptophan|Nutritional Supplements|900|1200
+67463|Tyrosine|Nutritional Supplements|300|1100
+65130|Valine|Nutritional Supplements|350|1400
+69953|Vanadium|Nutritional Supplements|700|1400
+64250|Vitamin A|Nutritional Supplements|300|1000
+69560|Vitamin B1 (Thiamine)|Nutritional Supplements|350|1200
+63274|Vitamin B12 (Cobalamin)|Nutritional Supplements|700|500
+69196|Vitamin B2 (Riboflavin)|Nutritional Supplements|400|1100
+68523|Vitamin B3 (Niacin)|Nutritional Supplements|450|1400
+69128|Vitamin B5 (Pantothenic acid)|Nutritional Supplements|500|3000
+65343|Vitamin B6 (Pyridoxine)|Nutritional Supplements|550|300
+69286|Vitamin B7 (Biotin)|Nutritional Supplements|600|400
+68982|Vitamin B9 (Folate)|Nutritional Supplements|650|6000
+64448|Vitamin C (Ascorbic acid)|Nutritional Supplements|750|700
+60939|Vitamin D|Nutritional Supplements|800|1000
+66516|Vitamin E|Nutritional Supplements|850|1200
+69823|Vitamin K|Nutritional Supplements|900|1100
+59336|Wasp stings|First Aid|8000|13
+56224|Wasp stings|First Aid|11000|3
+67963|Water|Nutritional Supplements|650|1400
+57228|Wounds and bleeding|First Aid|3000|4
+64796|Zeaxanthin|Nutritional Supplements|650|700
+69562|Zinc|Nutritional Supplements|600|700
+213333|asdfghj|Nutritional Supplements|121|1212
